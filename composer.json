@@ -1,0 +1,14 @@
+{
+    "name": "ruihloliveira/phpminirouter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PhpMiniRouter\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Rui",
+        "email": "ruihloliveira@gmail.com"
+    }],
+    "require": {}
+}
