@@ -1,6 +1,6 @@
 <?php
 
-namespace FluxoDeCaixa\Core;
+namespace PhpMiniRouter\Core;
 
 class Rota {
     public $path;

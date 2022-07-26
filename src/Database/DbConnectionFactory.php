@@ -1,6 +1,6 @@
 <?php
 
-namespace FluxoDeCaixa\Database;
+namespace PhpMiniRouter\Database;
 
 use PDO;
 
